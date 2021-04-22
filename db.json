@@ -1,11 +1,16 @@
 {
-  "id" : "ad891-bc0ff-ee0901-fcb312-bef009",
-  "unused" : {
-      "size" : 9,
-      "unit" : "GB"
+  "free":{
+    "id" : "ad891-bc0ff-ee0901-fcb312-bef009",
+    "unused" : {
+        "size" : 9,
+        "unit" : "GB"
+    },
+    "used" : {
+        "size" : 3,
+        "unit" : "TB"
+    }
   },
-  "used" : {
-      "size" : 3,
-      "unit" : "TB"
-  }
+  "profile":{
+    "name": "typicode"
+  }    
 }
